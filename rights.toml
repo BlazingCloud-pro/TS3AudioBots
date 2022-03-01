@@ -32,7 +32,7 @@
 # Admin rule
 [[rule]]
 	# Set your admin Group Ids here, ex: [ 13, 42 ]
-	groupid = [ 51, 6]
+	groupid = [ 52, 6]
 	# And/Or your admin Client Uids here
 	useruid = [ "ZHBd5AuCOUJKsbcgdovcw2N4olw=", "900XLnq/prxXInTLgqWkdF94nNo=" ]
 	# By default treat requests from localhost as admin
@@ -43,7 +43,7 @@
 # Playing rights
 [[rule]]
 	# Set Group Ids you want to allow here, ex: [ 13, 42 ]
-	groupid = [ 31, 9 ]
+	groupid = [ 31 ]
 	# And/Or Client Uids here, ex [ "uA0U7t4PBxdJ5TLnarsOHQh4/tY=", "8CnUQzwT/d9nHNeUaed0RPsDxxk=" ]
 	useruid = []
 	# Or remove groupid and useruid to allow for everyone
